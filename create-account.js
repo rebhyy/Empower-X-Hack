@@ -22,7 +22,7 @@ async function main() {
 	const newPublicKey = newPrivateKey.publicKey;
 	const newAliasAccountId = newPublicKey.toAccountId(0, 0);
 
-	console.log(`- New account alias: ${newAliasAccountId} \n`);
+	console.log(`- New account alias ID: ${newAliasAccountId} \n`);
 	console.log(`- New private key (Hedera): ${newPrivateKey} \n`);
 	console.log(`- New public key (Hedera): ${newPublicKey} \n`);
 	console.log(`- New private key (RAW EVM): 0x${newPrivateKey.toStringRaw()} \n`);
