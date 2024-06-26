@@ -29,8 +29,7 @@ async function main() {
 	console.log(`- New public key (RAW): 0x${newPublicKey.toStringRaw()} \n`);
 	console.log(`- New public key (EVM): 0x${newPublicKey.toEthereumAddress()} \n\n`);
 
-	// Transfer HBAR to newAliasAccountId to auto-create the new account
-	// Get account information from a transaction record query
+
 	const [txReceipt, txRecQuery] = await autoCreateAccountFcn(operatorId, newAliasAccountId, 100);
 	console.log(`- HBAR Transfer to new account: ${txReceipt.status} \n\n`);
 	console.log(`- Parent transaction ID: ${txRecQuery.transactionId} \n`);
