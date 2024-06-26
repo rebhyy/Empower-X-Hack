@@ -1,8 +1,10 @@
 # قطرة: Smart Water Irrigation System
 
+![Logo](https://cdn.imgchest.com/files/my2pcekv3k7.png)
+
 ## Overview
 
-9otra aims to create a Smart Water Irrigation System that leverages drone technology, smart contracts on the Hedera blockchain, and renewable energy sources to optimize water usage in agriculture. The system ensures that water is supplied precisely to the areas that need it based on real-time data, thus promoting sustainable agriculture practices.
+قطرة aims to create a Smart Water Irrigation System that leverages drone technology, smart contracts on the Hedera blockchain, and renewable energy sources to optimize water usage in agriculture. The system ensures that water is supplied precisely to the areas that need it based on real-time data, thus promoting sustainable agriculture practices.
 
 ## Project Features
 
@@ -20,6 +22,8 @@
 
 ## How It Works
 
+![How It Works](https://cdn.imgchest.com/files/my8xc5novb4.png)
+
 1. **Data Collection**:
     - Drones fly over the fields and collect data on NDVI, soil moisture, temperature, and humidity.
     - This data is transmitted to a central server where it is processed and analyzed.
@@ -32,8 +36,8 @@
     - Solar panels provide the necessary energy for the irrigation system.
     - Excess energy generated is tokenized and can be traded on the Hedera blockchain.
 
-4. **Water and Energy Trading**:
-    - Farmers can trade water and energy tokens, ensuring efficient resource management and creating a new revenue stream.
+4. **Data Marketplace**:
+    - Farmers can buy valuable data collected via our drones, ensuring efficient resource management and creating a new revenue stream.
 
 ## Technology Stack
 
@@ -105,4 +109,3 @@ For more information, please contact:
 - **Name**: Ahmed Aziz Rebhi
 - **Email**: [ahmedaziz.Rebhi@esprit.tn](mailto:ahmedaziz.Rebhi@esprit.tn)
 - **LinkedIn**: [Ahmed Aziz Rebhi](https://www.linkedin.com/in/ahmed-rebhi-726530202/)
-
