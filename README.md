@@ -1,6 +1,8 @@
 # قطرة: Smart Water Irrigation System
 
-![Logo](https://cdn.imgchest.com/files/84jdcev5rm4.png)
+<p align="center">
+  <img src="https://cdn.imgchest.com/files/84jdcev5rm4.png" alt="Logo" width="200"/>
+</p>
 
 ## Overview
 
